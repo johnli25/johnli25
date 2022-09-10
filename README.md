@@ -1,5 +1,7 @@
 ### Hi there 🌇
 
+![CatTypingGIF](https://user-images.githubusercontent.com/59215442/189495398-c3f8f933-eb90-4083-a4d5-ad47266888f5.gif)
+
 I'm John Li, and I'm a senior (expected graduation: May 2023) majoring in Computer Engineering at UIUC🌠!
 
 
@@ -9,9 +11,6 @@ Tableau (Salesforce), Lockheed Martin, UIUC CS Department, [Professor Matthew Ca
 
 
 [My LinkedIn](https://www.linkedin.com/in/johnli2023/)
-
-Just keep livin and learning ![MinionLetsGoGIF](https://user-images.githubusercontent.com/59215442/189495382-8b28fb34-772a-4aa1-be81-e1fc4ae62ba0.gif)
-
 
 <!--
 **johnli25/johnli25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
