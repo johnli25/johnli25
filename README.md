@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm John Li, and I'm a senior (expected graduation: May 2023) majoring in Computer Engineering at UIUC🌠.
+
+Currently and previously worked @:
+Tableau (Salesforce), Lockheed Martin, UIUC CS Department, Professor Matthew Caesar's IoT Research Group (WorldSim team)
+
 <!--
 **johnli25/johnli25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
