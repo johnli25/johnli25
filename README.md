@@ -6,7 +6,6 @@ I'm John Li, and I'm a senior (expected graduation: May 2023) majoring in Comput
 
 
 Currently and previously at:
-
 Tableau (Salesforce), Lockheed Martin, UIUC CS Department, [Professor Matthew Caesar's IoT Research Group](https://iot.cs.illinois.edu/welcome/)
 
 
