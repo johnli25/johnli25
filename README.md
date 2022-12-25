@@ -4,11 +4,6 @@
 
 I'm John Li, and I'm a senior majoring in Computer Engineering at UIUC🌠!
 
-Currently and previously @:
-<br>
-Tableau (Salesforce), Lockheed Martin, UIUC CS Department, [Professor Matthew Caesar's IoT Research Group](https://iot.cs.illinois.edu/welcome/)
-
-
 [My LinkedIn](https://www.linkedin.com/in/johnli2023/)
 
 [Never-ending Recursion](https://github.com/johnli25)
