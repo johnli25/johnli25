@@ -2,11 +2,11 @@
 
 ![CatTypingGIF](https://user-images.githubusercontent.com/59215442/189495398-c3f8f933-eb90-4083-a4d5-ad47266888f5.gif)
 
-I'm John Li, and I'm a senior majoring in Computer Engineering at UIUC🌠!
+I'm John Li, and I'm a first year Master's of Science(MS)/PhD student at the University of Illinois at Urbana-Champaign majoring in computer engineering🌠!
 
-Currently and previously @:
+Previously @:
 <br>
-Tableau (Salesforce), Lockheed Martin, UIUC CS Department, [Professor Matthew Caesar's IoT Research Group](https://iot.cs.illinois.edu/welcome/)
+Juniper Networks, Tableau (Salesforce), Lockheed Martin, UIUC CS Department, [Professor Matthew Caesar's IoT Research Group](https://iot.cs.illinois.edu/welcome/)
 
 [My LinkedIn](https://www.linkedin.com/in/johnli2023/)
 
