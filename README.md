@@ -2,7 +2,7 @@
 
 ![CatTypingGIF](https://user-images.githubusercontent.com/59215442/189495398-c3f8f933-eb90-4083-a4d5-ad47266888f5.gif)
 
-I'm John Li, and I'm a first year Master's of Science(MS)/PhD student at the University of Illinois at Urbana-Champaign majoring in computer engineering🌠!
+I'm John Li, and I'm a first year Master of Science(MS)/PhD student at the University of Illinois at Urbana-Champaign majoring in computer engineering🌠!
 
 Previously @:
 <br>
