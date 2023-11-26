@@ -4,9 +4,13 @@
 
 I'm John Li, and I'm a first year Master of Science(MS)/PhD student at the University of Illinois at Urbana-Champaign majoring in computer engineering🌠!
 
+Research Interests: Internet of Things, Machine Learning, Artificial Intelligence, Real-time Distributed and Data Storage Systems
+
+Currently @ [Professor Matthew Caesar's IoT Research Group](https://iot.cs.illinois.edu/welcome/)
+
 Previously @:
 <br>
-Juniper Networks, Tableau (Salesforce), Lockheed Martin, UIUC CS Department, [Professor Matthew Caesar's IoT Research Group](https://iot.cs.illinois.edu/welcome/)
+Juniper Networks, Tableau (Salesforce), Lockheed Martin, UIUC CS Department
 
 [My LinkedIn](https://www.linkedin.com/in/johnli2023/)
 
