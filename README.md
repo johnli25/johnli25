@@ -14,7 +14,7 @@ Intuitive Surgical, Juniper Networks, Tableau (Salesforce), Lockheed Martin, UIU
 
 [My LinkedIn](https://www.linkedin.com/in/johnli2023/)
 
-[Website](https://johnli25.github.io/)
+[My Website](https://johnli25.github.io/)
 
 [Never-ending Recursion](https://github.com/johnli25)
 
