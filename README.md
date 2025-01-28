@@ -2,7 +2,7 @@
 
 ![CatTypingGIF](https://user-images.githubusercontent.com/59215442/189495398-c3f8f933-eb90-4083-a4d5-ad47266888f5.gif)
 
-I'm John Li, and I'm a M.S./PhD student at the University of Illinois at Urbana-Champaign in Computer Engineering🌠!
+I'm John Li, and I'm a M.S./PhD student at the University of Illinois at Urbana-Champaign studying Computer Engineering🌠!
 
 **Research Interests: Internet of Things, Computer Vision, Machine Learning and Systems (MLSys), and Real-Time/Distributed Systems**
 
@@ -13,6 +13,8 @@ Previously @:
 Intuitive Surgical, Juniper Networks, Tableau (Salesforce), Lockheed Martin, UIUC Computer Science Department
 
 [My LinkedIn](https://www.linkedin.com/in/johnli2023/)
+
+[Website](https://johnli25.github.io/)
 
 [Never-ending Recursion](https://github.com/johnli25)
 
