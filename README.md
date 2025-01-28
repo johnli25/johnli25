@@ -4,7 +4,7 @@
 
 I'm John Li, and I'm a M.S./PhD student at the University of Illinois at Urbana-Champaign studying Computer Engineering🌠!
 
-**Research Interests: Internet of Things, Computer Vision, Machine Learning and Systems (MLSys), and Real-Time/Distributed Systems**
+**Research Interests: Internet of Things (IoT), Computer Vision, Machine Learning and Systems (MLSys), and Real-Time/Distributed Systems**
 
 Currently @ [Professor Matthew Caesar's IoT Research Group](https://iot.cs.illinois.edu/welcome/)
 
