@@ -4,7 +4,7 @@
 
 I'm John Li, and I graduated at the University of Illinois at Urbana-Champaign with a M.S. + B.S. Computer Engineering🌠!
 
-**Research Interests: Internet of Things (IoT), Computer Vision, Machine Learning and Systems (MLSys), and Real-Time/Distributed Systems**
+**Research Interests: Internet of Things (IoT), Distributed + Multimedia Systems, Computer Vision (CV), and Machine Learning (ML) for Networking and Systems**
 
 Previously @:
 <br>
